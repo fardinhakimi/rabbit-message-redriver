@@ -1,6 +1,6 @@
-module github.com/humly/rabbit-message-redriver
+module github.com/fardinhakimi/rabbit-message-redriver
 
-go 1.20
+go 1.23.0
 
 require (
 	github.com/joho/godotenv v1.5.1
